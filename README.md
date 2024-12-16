@@ -4,7 +4,6 @@
 - 💞️ Mi Lengua natal es Español pero me gusta el aleman.
 - 📫 Puedes buscarme en discord como Kijiw.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: Ich mag die league of legends hahahahah.
 
 <!---
 Kijibatoj/Kijibatoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
