@@ -10,9 +10,6 @@ Hola, soy Abisai o Kiwi
 👋 Hallo, ich bin @Kijibatoj.<br>👀 I’m interested in VA 11 HA LLA game. 😄<br>🌱I'm currently learning everything in reference to android.<br>💞️ Mi Lengua natal es Español pero me gusta el aleman.<br>📫 Puedes buscarme en discord como Kiji.<br>😄 Pronouns: he/him.
 
 
-## 🌐 Mis redes:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@kijiw.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@teran_abij) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Jordy_laroye) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hades) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jordyjk9573) 
-
 # 💻 Stacks:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ## Frameworks & Libraries:
@@ -25,4 +22,7 @@ Hola, soy Abisai o Kiwi
 ![Estoy escuchando](https://spotify-recently-played-readme.vercel.app/api?user=31isakiwjv3puzcbdzz5gdhspzs4)
  <img align="right" src="https://c.tenor.com/czt2nIJ1vb0AAAAd/tenor.gif" width = 300px>
 
+
+## 🌐 Mis redes:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@kijiw.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@teran_abij) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Jordy_laroye) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hades) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jordyjk9573) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
